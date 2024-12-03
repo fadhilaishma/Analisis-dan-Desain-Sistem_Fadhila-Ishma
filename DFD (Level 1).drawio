@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="U94CSPpbPS4F2EGrSXhQ" name="DFD (level 1)">
+    <mxGraphModel dx="1034" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vbZ5K5i6UgcexSLt607W-1" value="&lt;b&gt;LEVEL 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-1" value="&lt;b&gt;Admin Gudang&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oVw93iK_I3dq35dEb4CK-2" target="oVw93iK_I3dq35dEb4CK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-2" value="&lt;b&gt;Pelanggan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="690" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oVw93iK_I3dq35dEb4CK-3" target="oVw93iK_I3dq35dEb4CK-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-3" value="&lt;b&gt;Pemasok&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oVw93iK_I3dq35dEb4CK-4" target="oVw93iK_I3dq35dEb4CK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-4" value="&lt;b&gt;Penerimaan Barang&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="190" y="310" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-6" value="Pengiriman Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-8" value="Notifikasi Stok Masuk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="225" y="620" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oVw93iK_I3dq35dEb4CK-9" target="oVw93iK_I3dq35dEb4CK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="190.0000000000001" as="targetPoint" />
+            <mxPoint x="735" y="324.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVw93iK_I3dq35dEb4CK-9" value="&lt;b&gt;Pengeluaran Barang&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="710" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-2" value="Permintaan&amp;nbsp;&lt;div&gt;Barang&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="740" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-4" value="Data Barang Keluar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="620" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-6" value="Notifikasi Status&amp;nbsp;&lt;div&gt;Pengeluaran&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600" y="228" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JPGtofb-PtnKRk68dhp3-7" target="JPGtofb-PtnKRk68dhp3-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JPGtofb-PtnKRk68dhp3-7" target="JPGtofb-PtnKRk68dhp3-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="348" />
+              <mxPoint x="545" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-7" value="&lt;b&gt;Pencatatan Stok&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="400" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JPGtofb-PtnKRk68dhp3-8" target="oVw93iK_I3dq35dEb4CK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JPGtofb-PtnKRk68dhp3-8" target="JPGtofb-PtnKRk68dhp3-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="465" />
+              <mxPoint x="544" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-8" value="&lt;b&gt;Pemantauan Stok&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="432.5" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="265" y="344.76" as="sourcePoint" />
+            <mxPoint x="400" y="345" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-12" value="Data Barang Masuk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-14" value="Data Stok&amp;nbsp;&lt;div&gt;Terupdate&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="365" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-16" value="Notifikasi Barang&lt;div&gt;Kadaluwarsa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JPGtofb-PtnKRk68dhp3-17" target="oVw93iK_I3dq35dEb4CK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-17" value="&lt;b&gt;Laporan Stok&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="610" y="375" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-20" value="Data&lt;div&gt;Laporan&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="413" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPGtofb-PtnKRk68dhp3-22" value="Laporan Berkala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="512.5" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
